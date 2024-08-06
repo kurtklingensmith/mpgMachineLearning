@@ -1,4 +1,5 @@
-# Jupyter Notebook for the Medium.com Article: How to Use Machine Learning to Inform Design Decisions and Make Predictions
+# Jupyter Notebook for the Medium.com Article: 
+## How to Use Machine Learning to Inform Design Decisions and Make Predictions
 
 This is the full code notebook for the medium.com article on how to use ML techniques to inform design decisions in a business process.
 
